@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CASync//Demo Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mathew — CASync Demo
+X-WR-CALDESC:Demo calendar for Mathew (CITS3403 lecturer) used by the CASync demo seed.
+X-WR-TIMEZONE:Australia/Perth
+BEGIN:VEVENT
+UID:mathew-demo-001@casync.dev
+DTSTAMP:20260518T000000Z
+DTSTART:20260518T000000Z
+DTEND:20260518T040000Z
+SUMMARY:Grading too many projects
+DESCRIPTION:Marking CITS3403 Agile Web Development project submissions.
+LOCATION:Office — CS Building G.04
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+UID:mathew-demo-002@casync.dev
+DTSTAMP:20260518T000000Z
+DTSTART:20260518T050000Z
+DTEND:20260518T060000Z
+SUMMARY:CITS3403 Curriculum Review
+DESCRIPTION:Meeting with faculty to discuss course updates for next semester.
+LOCATION:Engineering Lecture Theatre 1
+COLOR:indigo
+END:VEVENT
+BEGIN:VEVENT
+UID:mathew-demo-003@casync.dev
+DTSTAMP:20260518T000000Z
+DTSTART:20260519T020000Z
+DTEND:20260519T030000Z
+SUMMARY:Faculty Meeting
+DESCRIPTION:Weekly school of computing staff meeting.
+LOCATION:CS Building — Staff Room 2.14
+COLOR:blue
+END:VEVENT
+BEGIN:VEVENT
+UID:mathew-demo-004@casync.dev
+DTSTAMP:20260518T000000Z
+DTSTART:20260520T080000Z
+DTEND:20260520T100000Z
+SUMMARY:Agile Web Development\, Lecture-01
+DESCRIPTION:CITS3403 Lecture — Agile methodologies\, project structure\, and Flask fundamentals.
+LOCATION:Social Sciences Lecture Theatre
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+UID:mathew-demo-005@casync.dev
+DTSTAMP:20260518T000000Z
+DTSTART:20260521T060000Z
+DTEND:20260521T080000Z
+SUMMARY:Office Hours
+DESCRIPTION:Drop-in office hours for students to discuss project and course content.
+LOCATION:Office — CS Building G.04
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+UID:mathew-demo-006@casync.dev
+DTSTAMP:20260518T000000Z
+DTSTART:20260522T020000Z
+DTEND:20260522T040000Z
+SUMMARY:Agile Web Development\, LecTut-01
+DESCRIPTION:CITS3403 combined lecture-tutorial — hands-on session with Flask and SQLAlchemy.
+LOCATION:Computer Lab — CS Building 2.31
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+UID:mathew-demo-007@casync.dev
+DTSTAMP:20260518T000000Z
+DTSTART:20260525T030000Z
+DTEND:20260525T040000Z
+SUMMARY:CITS3403 Exam Review Session
+DESCRIPTION:Reviewing past exam papers with students ahead of the end-of-semester exam.
+LOCATION:Lecture Theatre 1.04
+COLOR:orange
+END:VEVENT
+BEGIN:VEVENT
+UID:mathew-demo-008@casync.dev
+DTSTAMP:20260518T000000Z
+DTSTART:20260526T010000Z
+DTEND:20260526T030000Z
+SUMMARY:Research Paper Review
+DESCRIPTION:Reviewing and providing feedback on submitted research proposals.
+LOCATION:Office — CS Building G.04
+COLOR:purple
+END:VEVENT
+END:VCALENDAR
